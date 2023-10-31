@@ -1,5 +1,5 @@
-# design-patterns
-Design Patterns in .NET
+# design-patterns-dotnet
+Design Patterns C#
 
 Decorator Design Pattern
 
