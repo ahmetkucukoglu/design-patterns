@@ -12,3 +12,7 @@ TR - https://www.ahmetkucukoglu.com/strategy-design-pattern-dotnet
 Observer Design Pattern
 
 TR - https://www.ahmetkucukoglu.com/observer-design-pattern-dotnet
+
+State Design Pattern
+
+TR - https://www.ahmetkucukoglu.com/state-design-pattern-dotnet
